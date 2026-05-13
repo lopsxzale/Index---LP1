@@ -1,5 +1,7 @@
 # Indexador de Alta Performance – LPI 2026.1
 
+## Alexandre Lopes Silva
+
 Sistema de indexação de arquivos `.txt` com **Tabela Hash e encadeamento**.
 
 ---
