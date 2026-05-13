@@ -1,4 +1,4 @@
-# Indexador de Alta Performance – LPI 2026.1
+# Indexador – LPI 2026.1
 
 Sistema de indexação de arquivos `.txt` com **Tabela Hash e encadeamento**.
 
